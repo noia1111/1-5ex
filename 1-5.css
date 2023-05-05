@@ -7,13 +7,13 @@
 
 
 header {
-  width: 100%; 
+  width: 100%;
   padding: 20px 0;
   margin: 0 auto;
   text-align: center;
 }
 
-header .heading { 
+header .heading {
   font-size: 32px;
 }
 
@@ -31,12 +31,11 @@ header .heading {
 }
 
 .main {
-  width: 100%;
-  height: 700px;
+  width: 800px;
+  height: 600px;
   display:flex;
-  flex-wrap: wrap; 
-  margin: 0 auto; 
-  padding:50px auto;
+  flex-wrap: wrap;
+  margin: 50px auto;
 }
 .main1 {
   background-color: #e6ffe9;
